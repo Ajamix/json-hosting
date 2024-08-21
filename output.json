@@ -1,0 +1,970 @@
+[
+    {
+        "Postal Code": 65468,
+        "Area Code": 6147,
+        "Learning Center Location": "Astheim",
+        "District": "Astheim",
+        "Street / No.": "Waldstraße 6",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65812,
+        "Area Code": 6196,
+        "Learning Center Location": "Bad Soden am Taunus",
+        "District": "Bad Soden am Taunus",
+        "Street / No.": "Königsteiner Straße 5",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 61118,
+        "Area Code": 6101,
+        "Learning Center Location": "Bad Vilbel",
+        "District": "Bad Vilbel",
+        "Street / No.": "Finkenweg 22",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 61118,
+        "Area Code": 6101,
+        "Learning Center Location": "Bad Vilbel-Dortelweil",
+        "District": "Bad Vilbel-Dortelweil",
+        "Street / No.": "Elsterweg 13",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65479,
+        "Area Code": 6142,
+        "Learning Center Location": "Bischofsheim b. Rüsselsheim",
+        "District": "Bischofsheim b. Rüsselsheim",
+        "Street / No.": "Mainzerstraße 35",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65474,
+        "Area Code": 6144,
+        "Learning Center Location": "Bischofsheim b. Rüsselsheim",
+        "District": "Bischofsheim b. Rüsselsheim",
+        "Street / No.": "Rheinstraße 21",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64572,
+        "Area Code": 6152,
+        "Learning Center Location": "Büttelborn",
+        "District": "Büttelborn",
+        "Street / No.": "Mainzer Straße 11",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63125,
+        "Area Code": 6074,
+        "Learning Center Location": "Dietzenbach",
+        "District": null,
+        "Street / No.": "Hauptstraße1",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63303,
+        "Area Code": 6103,
+        "Learning Center Location": "Dreieich",
+        "District": "Dreieich",
+        "Street / No.": "Bieburger Straße 24",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63303,
+        "Area Code": 6103,
+        "Learning Center Location": "Dreieich-Buchschlag",
+        "District": "Dreieich-Buchschlag",
+        "Street / No.": "Frankfurter Straße 13",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63225,
+        "Area Code": 6103,
+        "Learning Center Location": "Dreieichenhain",
+        "District": "Dreieichenhain",
+        "Street / No.": "Robert Kochstraße 1",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63303,
+        "Area Code": 6103,
+        "Learning Center Location": "Dreieich-Götzenhain",
+        "District": "Dreieich-Götzenhain",
+        "Street / No.": "Langener Straße 12",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63303,
+        "Area Code": 6074,
+        "Learning Center Location": "Dreieich-Offenthal",
+        "District": "Dreieich-Offenthal",
+        "Street / No.": "Bahnhofstraße 14",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63303,
+        "Area Code": 6103,
+        "Learning Center Location": "Dreieich-Sprendlingen",
+        "District": "Dreieich-Sprendlingen",
+        "Street / No.": "Offenbacher Straße 41",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63329,
+        "Area Code": 6103,
+        "Learning Center Location": "Egelsbach",
+        "District": "Egelsbach",
+        "Street / No.": "Hans Fleißner Straße 21",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65817,
+        "Area Code": 6198,
+        "Learning Center Location": "Eppstein",
+        "District": "Eppstein",
+        "Street / No.": "Hauptstraße 26",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63526,
+        "Area Code": 6183,
+        "Learning Center Location": "Erlensee",
+        "District": "Erlensee",
+        "Street / No.": "Langendiebacher Straße 22",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64390,
+        "Area Code": 6150,
+        "Learning Center Location": "Erzhausen",
+        "District": "Erzhausen",
+        "Street / No.": "Schillerstraße 4 ",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65760,
+        "Area Code": 6196,
+        "Learning Center Location": "Eschborn",
+        "District": "Eschborn",
+        "Street / No.": "Hauptstraße 16",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65439,
+        "Area Code": 6145,
+        "Learning Center Location": "Flörsheim",
+        "District": "Flörsheim",
+        "Street / No.": "Hochheimer Straße 9",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60311,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Altstadt, Innenstadt ",
+        "Street / No.": "An der Kleinmarkthalle 2",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60313,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Innenstadt",
+        "Street / No.": "Am Salzhaus 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60314,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Ostend",
+        "Street / No.": "Arnsburger Straße 5",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60316,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Nordend Ost + West, Ostend",
+        "Street / No.": "Friedberger Anlage 9",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60318,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Nordend Ost + West",
+        "Street / No.": "Adlerflychtstraße 10",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60320,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Dornbusch, Nordend Ost + West, Westend",
+        "Street / No.": "Bertramstraße 2",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60322,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Nordend Ost+ West, Westend",
+        "Street / No.": "Fichtestraße 10",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60323,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Westend",
+        "Street / No.": "Fürstenbergerstraße 5",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60325,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Gallus, Westend",
+        "Street / No.": "Feuerbachstraße 4",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60326,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Gallus",
+        "Street / No.": "Galluswarte 1",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60327,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Gallus, Gutleutviertel, Westend",
+        "Street / No.": "Gutleutstraße 19",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60329,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Bahnhofviertel",
+        "Street / No.": "Taunusanlage 1",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60385,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Bornheim, Nordend ost + West, Ostend",
+        "Street / No.": "Berger Straße 15",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60386,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Bornheim, Fechenheim, Riederwald, Seckbach ",
+        "Street / No.": "Wilhelmshöhrer Straße 15",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60388,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Bergen-Enkheim, Seckbach",
+        "Street / No.": "Borsigallee 20",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60389,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Bornheim, Nordend Ost + West, Seckbach",
+        "Street / No.": "Flinschstraße 17",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60431,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Dornbusch, Eschersheim, Ginnheim",
+        "Street / No.": "Alt Eschersheim 1",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60433,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Dornusch, Eschersheim, Frankfurter Berg",
+        "Street / No.": "Adolf Reichwein Straße 11",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60435,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Berkersheim, Eckenheim, Preungesheim",
+        "Street / No.": "Am Dachsberg 20",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60437,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Bonames, Harheim, Riedberg",
+        "Street / No.": "Alt Harheim 6",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60439,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Niederursel",
+        "Street / No.": "Alt Niederursel 4",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60486,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Bockenheim, Westend",
+        "Street / No.": "Leipziger Straße 19",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60487,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Bockenheim",
+        "Street / No.": "Hamburger Allee 39",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60488,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Hausen, Praunheim, Rödelheim",
+        "Street / No.": "Praunheimer Landstraße 31",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60489,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Rödelheim",
+        "Street / No.": "Alt Rödelheim 5",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60528,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Niederrad",
+        "Street / No.": "Bahnhof Niederrad",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60529,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Schwanheim",
+        "Street / No.": "Kelsterbacher Weg 13",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60549,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Flughafen",
+        "Street / No.": "Flughafen",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60594,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Sachsenhausen Nord + Süd",
+        "Street / No.": "Affentorplatz 8",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60596,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Sachsenhausen Nord + Süd",
+        "Street / No.": "Darmstädter Landstraße 37",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60598,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Sachsenhausen Nord + Süd",
+        "Street / No.": "Darmstädter Landstraße 37",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60599,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Oberrad, Sachsenhausen Nord + Süd",
+        "Street / No.": "Grunelius Straße 25",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65929,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Höchst, Unterliederbach",
+        "Street / No.": "Hostata Straße 9",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65931,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Sindlingen, Zeilsheim",
+        "Street / No.": "Pfaffenwiesen 11",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65933,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Griesheim",
+        "Street / No.": "Mainzer Landstraße 22",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65934,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Nied",
+        "Street / No.": "Alt Nied 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65936,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt /Main",
+        "District": "Sossenheim",
+        "Street / No.": "Siegener Straße 13",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60437,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt Kalbach",
+        "District": "Kalbach",
+        "Street / No.": "Kalbacher Hauptstraße 29",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60437,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt Nieder-Erlenbach",
+        "District": "Nieder Erlenbach",
+        "Street / No.": "Alt Erlenbach 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60437,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt Nieder-Eschbach ",
+        "District": "Nieder Eschbach",
+        "Street / No.": "Deuil-La-Barre Straße 61",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 60439,
+        "Area Code": 69,
+        "Learning Center Location": "Frankfurt Niederursel",
+        "District": "Hedderheim",
+        "Street / No.": "Dillenburger Straße 27",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 6144,
+        "Area Code": 65462,
+        "Learning Center Location": "Ginsheim (OT von Gisheim Gustavsburg)",
+        "District": null,
+        "Street / No.": "Leipziger Straße 18",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64347,
+        "Area Code": 6155,
+        "Learning Center Location": "Griesheim (Darmstadt Dieburg)",
+        "District": "Griesheim (Darmstadt Dieburg)",
+        "Street / No.": "Nordring 43 ",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64521,
+        "Area Code": 6152,
+        "Learning Center Location": "Groß-Gerau",
+        "District": "Groß-Gerau",
+        "Street / No.": "Neustraße 11",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65439,
+        "Area Code": 6145,
+        "Learning Center Location": "Hattersheim am Main ",
+        "District": "Hattersheim am Main ",
+        "Street / No.": "Buchenstraße 12",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65795,
+        "Area Code": 6190,
+        "Learning Center Location": "Hattersheim am Main ",
+        "District": "Hattersheim am Main ",
+        "Street / No.": "Rossertstraße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63179,
+        "Area Code": 6104,
+        "Learning Center Location": "Heusenstamm",
+        "District": "Heusenstamm",
+        "Street / No.": "Hohebergstraße 11",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65239,
+        "Area Code": 6145,
+        "Learning Center Location": "Hochheim",
+        "District": "Hochheim",
+        "Street / No.": "Königsberg Ring 1",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65239,
+        "Area Code": 6146,
+        "Learning Center Location": "Hochheim",
+        "District": "Hochheim",
+        "Street / No.": "Alleestraße 13",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65719,
+        "Area Code": 6192,
+        "Learning Center Location": "Hofheim am Taunus",
+        "District": "Hofheim am Taunus",
+        "Street / No.": "Hauptstraße 21",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65719,
+        "Area Code": 6192,
+        "Learning Center Location": "Hofheim Marxheim",
+        "District": "Hofheim Marxheim",
+        "Street / No.": "Rheingaustraße 19",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65719,
+        "Area Code": 6192,
+        "Learning Center Location": "Hofheim Wallau",
+        "District": "Hofheim am Taunus",
+        "Street / No.": "Eichelsdorfer Straße 7",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65779,
+        "Area Code": 6195,
+        "Learning Center Location": "Kelkheim Taunus",
+        "District": "Kelkheim Taunus",
+        "Street / No.": "Bahnstraße 9",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65451,
+        "Area Code": 6107,
+        "Learning Center Location": "Kelsterbach",
+        "District": "Kelsterbach",
+        "Street / No.": "Rheinstraße 23",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65428,
+        "Area Code": 6142,
+        "Learning Center Location": "Königstädten",
+        "District": "Königstädten",
+        "Street / No.": "Mainstraße 7",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65830,
+        "Area Code": 6192,
+        "Learning Center Location": "Kriftel",
+        "District": "Kriftel",
+        "Street / No.": "Staufenstraße 14",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63225,
+        "Area Code": 6103,
+        "Learning Center Location": "Langen",
+        "District": "Langen",
+        "Street / No.": "Gartenstraße 10",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65719,
+        "Area Code": 6192,
+        "Learning Center Location": "Langenhain",
+        "District": "Langenhain",
+        "Street / No.": "Laubacherstraße 8",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63505,
+        "Area Code": 6184,
+        "Learning Center Location": "Langenselbold",
+        "District": "Langenselbold",
+        "Street / No.": "Leipziger Straße 18",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65835,
+        "Area Code": 69,
+        "Learning Center Location": "Liederbach ",
+        "District": "Liederbach ",
+        "Street / No.": "Alt Oberliederbach 1",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63477,
+        "Area Code": 6109,
+        "Learning Center Location": "Maintal",
+        "District": "Maintal",
+        "Street / No.": "Kennedy Straße 11",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63477,
+        "Area Code": 6109,
+        "Learning Center Location": "Maintal Dörnigheim",
+        "District": "Maintal Dörnigheim",
+        "Street / No.": "Am Roderberg 2",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64546,
+        "Area Code": 6105,
+        "Learning Center Location": "Mörfelden-Walldorf",
+        "District": "Mörfelden-Walldorf",
+        "Street / No.": "Mittelgasse 19",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63165,
+        "Area Code": 6108,
+        "Learning Center Location": "Mühlheim am Main",
+        "District": "Mühlheim am Main",
+        "Street / No.": "Dieselstraße 1",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64569,
+        "Area Code": 6152,
+        "Learning Center Location": "Nauheim ",
+        "District": "Nauheim Kreis Groß Gerau",
+        "Street / No.": "Gustav Heinemann Straße 5",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64569,
+        "Area Code": 6152,
+        "Learning Center Location": "Nauheim Kreis Groß Gerau",
+        "District": "Nauheim Kreis Groß Gerau",
+        "Street / No.": "Rüsselsheimer Straße 22 ",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63263,
+        "Area Code": 6102,
+        "Learning Center Location": "Neu Isenburg",
+        "District": "Neu Isenburg",
+        "Street / No.": "Frankfurter Straße 44",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63179,
+        "Area Code": 6104,
+        "Learning Center Location": "Obertshausen",
+        "District": "Obertshausen",
+        "Street / No.": "Beethovenstraße 18",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63150,
+        "Area Code": 6104,
+        "Learning Center Location": "Obertshausen-Heusenstamm",
+        "District": "Obertshausen-Heusenstamm",
+        "Street / No.": "Industriestraße 17",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63110,
+        "Area Code": 6104,
+        "Learning Center Location": "Obertshausen-Weiskirchen",
+        "District": "Obertshausen-Weiskirchen",
+        "Street / No.": "Waldstraße 6",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63065,
+        "Area Code": 69,
+        "Learning Center Location": "Offenbach am Main",
+        "District": "Offenbach",
+        "Street / No.": "Mainstraße 7",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63067,
+        "Area Code": 69,
+        "Learning Center Location": "Offenbach am Main",
+        "District": "Offenbach",
+        "Street / No.": "Luisenstraße 29",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63069,
+        "Area Code": 69,
+        "Learning Center Location": "Offenbach am Main",
+        "District": "Offenbach",
+        "Street / No.": "Hinterwaldweg 15",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63071,
+        "Area Code": 69,
+        "Learning Center Location": "Offenbach am Main",
+        "District": "Offenbach",
+        "Street / No.": "Tempelseestraße 23",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63073,
+        "Area Code": 69,
+        "Learning Center Location": "Offenbach am Main",
+        "District": "Offenbach",
+        "Street / No.": "Konrad Adenauer Straße 31",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63075,
+        "Area Code": 69,
+        "Learning Center Location": "Offenbach am Main",
+        "District": "Offenbach",
+        "Street / No.": "Langener Straße 12",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65479,
+        "Area Code": 6142,
+        "Learning Center Location": "Raunheim",
+        "District": "Raunheim",
+        "Street / No.": "Bahnhofstraße 14",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64560,
+        "Area Code": 6158,
+        "Learning Center Location": "Riedstadt",
+        "District": "Riedstadt",
+        "Street / No.": "Schillerstraße 18",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64560,
+        "Area Code": 6158,
+        "Learning Center Location": "Riedstadt-Erfelden",
+        "District": "Riedstadt-Erfelden",
+        "Street / No.": "Bahnstraße 10",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64560,
+        "Area Code": 6158,
+        "Learning Center Location": "Riedstadt-Erfelden",
+        "District": "Riedstadt-Erfelden",
+        "Street / No.": "Lindenstraße 15",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64560,
+        "Area Code": 6158,
+        "Learning Center Location": "Riedstadt-Goddelau",
+        "District": "Riedstadt-Goddelau",
+        "Street / No.": "Wolfskehler Straße 6",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64560,
+        "Area Code": 6158,
+        "Learning Center Location": "Riedstadt-Goddelau",
+        "District": "Riedstadt-Goddelau",
+        "Street / No.": "Saugenweg 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64560,
+        "Area Code": 6158,
+        "Learning Center Location": "Riedstadt-Wolfskehlen",
+        "District": "Riedstadt-Wolfskehlen",
+        "Street / No.": "Zeppelinstraße 6",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64560,
+        "Area Code": 6158,
+        "Learning Center Location": "Riedstadt-Wolfskehlen",
+        "District": "Riedstadt-Wolfskehlen",
+        "Street / No.": "Wilhelm Leuschner Straße 7",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64560,
+        "Area Code": 6158,
+        "Learning Center Location": "Riedstadt-Wolfskehlen",
+        "District": "Riedstadt-Wolfskehlen",
+        "Street / No.": "Lindenstraße 15",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63322,
+        "Area Code": 6074,
+        "Learning Center Location": "Rödermark",
+        "District": "Rödermark",
+        "Street / No.": "Odenwaldstraße 9",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63110,
+        "Area Code": 6106,
+        "Learning Center Location": "Rodgau-Dudenhofen",
+        "District": "Rodgau-Dudenhofen",
+        "Street / No.": "Rathenau Straße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63110,
+        "Area Code": 6106,
+        "Learning Center Location": "Rodgau-Hainhausen",
+        "District": "Rodgau-Hainhausen",
+        "Street / No.": "Rathenau Straße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63110,
+        "Area Code": 6106,
+        "Learning Center Location": "Rodgau-Jügesheim",
+        "District": "Rodgau-Jügesheim",
+        "Street / No.": "Rathenau Straße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63110,
+        "Area Code": 6106,
+        "Learning Center Location": "Rodgau-Nieder Roden ",
+        "District": "Rodgau-Nieder Roden ",
+        "Street / No.": "Rathenau Straße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63110,
+        "Area Code": 6106,
+        "Learning Center Location": "Rodgau-Rollwald",
+        "District": "Rodgau-Rollwald",
+        "Street / No.": "Rathenau Straße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 63110,
+        "Area Code": 6104,
+        "Learning Center Location": "Rodgau-Weiskirchen",
+        "District": "Rodgau-Weiskirchen",
+        "Street / No.": "Rathenau Straße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65428,
+        "Area Code": 6142,
+        "Learning Center Location": "Rüsselsheim",
+        "District": "Rüsselsheim",
+        "Street / No.": "Frankfurter Straße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65824,
+        "Area Code": 6196,
+        "Learning Center Location": "Schwalbach am Taunus",
+        "District": "Schwalbach am Taunus",
+        "Street / No.": "Schulstraße 3",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64589,
+        "Area Code": 6158,
+        "Learning Center Location": "Stockstadt am Rhein (Groß Gerau)",
+        "District": "Stockstadt am Rhein (Groß Gerau)",
+        "Street / No.": "Odenwaldring 33",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65843,
+        "Area Code": 6196,
+        "Learning Center Location": "Sulzbach Taunus",
+        "District": "Sulzbach Taunus",
+        "Street / No.": "Sulzbachtalstraße 11",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 65468,
+        "Area Code": 6147,
+        "Learning Center Location": "Trebur",
+        "District": "Trebur",
+        "Street / No.": "Poststraße 25",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64331,
+        "Area Code": 6150,
+        "Learning Center Location": "Weiterstadt(ohne Riedbahn)",
+        "District": "Weiterstadt (ohne Riedbahn)",
+        "Street / No.": "Ludwig Straße 17",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64331,
+        "Area Code": 6150,
+        "Learning Center Location": "Weiterstadt-Gräfenhausen",
+        "District": "Weiterstadt-Gräfenhausen",
+        "Street / No.": "Robert Koch Straße 13",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64291,
+        "Area Code": 6150,
+        "Learning Center Location": "Wixhausen",
+        "District": "Wixhausen",
+        "Street / No.": "Bruckner Straße 10",
+        "link": "example.com"
+    },
+    {
+        "Postal Code": 64291,
+        "Area Code": 6151,
+        "Learning Center Location": "Wixhausen",
+        "District": "Wixhausen",
+        "Street / No.": "Bruckner Straße 10",
+        "link": "example.com"
+    }
+]
